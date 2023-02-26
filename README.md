@@ -4,7 +4,7 @@ I am currently a senior studying Industrial and Systems Engineering at Georgia T
 
 I am passionate in the field of Data Engineering / Cloud Computing.
 
-I previously worked as a..
+I have experience as a..
 
 - Incoming Solutions Architect Intern at AWS
 - Data Engineer Intern at Tesla
